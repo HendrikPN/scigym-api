@@ -42,4 +42,4 @@ boto3==1.9.47
 whitenoise==3.3.1
 
 # File Storage and download
-Pillow==5.2.0
+Pillow==9.0.0
